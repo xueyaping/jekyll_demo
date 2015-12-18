@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="751dd9f9-dbb9-4efe-ae91-88fdc39a7b1e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.yml" afterPath="$PROJECT_DIR$/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="jekyll_demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +47,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="9" selection-start="270" selection-end="270" vertical-scroll-proportion="0.486618" vertical-offset="0" max-vertical-offset="411">
+            <state line="8" column="56" selection-start="180" selection-end="180" vertical-scroll-proportion="0.38929442" vertical-offset="0" max-vertical-offset="411">
               <folding />
             </state>
           </provider>
@@ -56,7 +56,7 @@
       <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+            <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
               <folding />
             </state>
           </provider>
@@ -82,8 +82,8 @@
       <list>
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2015-12-16-product-manual.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/config.yml" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -292,13 +292,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="11" selection-end="11" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="7" selection-start="131" selection-end="131" vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="300">
@@ -313,9 +306,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="9" selection-start="270" selection-end="270" vertical-scroll-proportion="0.486618" vertical-offset="0" max-vertical-offset="411">
+        <state line="8" column="56" selection-start="180" selection-end="180" vertical-scroll-proportion="0.38929442" vertical-offset="0" max-vertical-offset="411">
           <folding />
         </state>
       </provider>
